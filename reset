@@ -1,0 +1,27 @@
+[33mcommit a0c891440edfc20dbef2397f3d187080be6c746e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmeet/add-meta-tags[m[33m, [m[1;31morigin/meet/add-meta-tags[m[33m)[m
+Author: Meet Jadav <108624414+meet2203@users.noreply.github.com>
+Date:   Mon Jan 22 16:21:47 2024 +0000
+
+    Added Meta tags
+
+ src/index.html | 14 [32m+++++++++++++[m[31m-[m
+ 1 file changed, 13 insertions(+), 1 deletion(-)
+
+[33mcommit 29d242fd38610d814d4895f700ce3edd8584bb2b[m
+Author: Meet Jadav <108624414+meet2203@users.noreply.github.com>
+Date:   Mon Jan 22 16:15:58 2024 +0000
+
+    Added Favicon and meta-tag icon
+
+ src/Jovian_favicon.png | Bin [31m0[m -> [32m2195[m bytes
+ src/Jovian_meta.png    | Bin [31m0[m -> [32m157477[m bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit fb3fadd1651c435c8964986fc42825331957d3ec[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Meet Jadav <108624414+meet2203@users.noreply.github.com>
+Date:   Mon Jan 22 13:18:47 2024 +0000
+
+    Changing Title name
+
+ src/index.html | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
